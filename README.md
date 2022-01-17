@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [FM Solution](https://www.frontendmentor.io/challenges/room-homepage-BtdBY_ENq/hub/flat-design-cosy-room-homepage-with-960-grid-system-Wn4I5dILO)
+- Solution URL: [FM Solution](https://www.frontendmentor.io/solutions/fun-griddy-image-collage-creative-agency-homepage-eDAQTr7lX)
 - Live Site URL: [Creative Agency: (github pages)](https://abu-hasib.github.io/creative-agency/)
 - Live Site URL: [Creative Agency: (vercel)](https://creative-agency-topaz.vercel.app/)
 
