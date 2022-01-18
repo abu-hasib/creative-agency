@@ -464,7 +464,7 @@ a {
 	}
 
 	.grid-container > *:nth-child(7) > div > p {
-		max-width: 400px;
+		max-width: 350px;
 	}
 
 	.grid-container > *:nth-child(8) {
